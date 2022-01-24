@@ -37,7 +37,7 @@ Create and save multiple timers with reset and delete functionality.
 - Accessibility
 - Need to reset input value after saving timer
 
-### Resources 
+### Useful Resources 
 
 - [React](https://reactjs.org/docs/hooks-intro.html) - Hooks
 - [React Redux](https://react-redux.js.org/) - React Redux
