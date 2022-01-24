@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tmrz-app/static/css/main.ad9cea5a.css",
+    "main.js": "/tmrz-app/static/js/main.67a359a5.js",
+    "static/js/787.fdaefca4.chunk.js": "/tmrz-app/static/js/787.fdaefca4.chunk.js",
+    "index.html": "/tmrz-app/index.html",
+    "main.ad9cea5a.css.map": "/tmrz-app/static/css/main.ad9cea5a.css.map",
+    "main.67a359a5.js.map": "/tmrz-app/static/js/main.67a359a5.js.map",
+    "787.fdaefca4.chunk.js.map": "/tmrz-app/static/js/787.fdaefca4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad9cea5a.css",
+    "static/js/main.67a359a5.js"
+  ]
+}
